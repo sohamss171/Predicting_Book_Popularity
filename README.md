@@ -1,3 +1,4 @@
+Team: Soham Sarvade, Annie Niland, Fangzhou Zheng, Bei SU
 Predicting Book Popularity Using Goodreads Data
 
 This project analyzes a large Goodreads dataset to understand what drives book ratings and long term popularity. Using PySpark, we cleaned and structured millions of book and review records, explored key patterns, and built models to predict both average ratings and future engagement.
